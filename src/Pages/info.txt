@@ -1,0 +1,3 @@
+The Pages Folder is going to be used only once for Component.
+So that is why we have the component in this folder instead of the "component" folder
+This is why we seperate it from the reusable component
